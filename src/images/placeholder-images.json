@@ -3,19 +3,19 @@
     {
       "id": "hero-bali-1",
       "description": "Patung Barong",
-      "imageUrl": "/images/barong-statue.jpg",
+      "imageUrl": "/TourFinalGior/images/barong-statue.jpg",
       "imageHint": "barong statue"
     },
     {
       "id": "hero-bali-2",
       "description": "Pantai Nusa Penida",
-      "imageUrl": "/images/nusa-penida-beach.jpg",
+      "imageUrl": "/TourFinalGior/images/nusa-penida-beach.jpg",
       "imageHint": "nusa penida beach"
     },
     {
       "id": "hero-bali-3",
       "description": "Sunset Kedonganan",
-      "imageUrl": "/images/kedonganan-sunset.jpg",
+      "imageUrl": "/TourFinalGior/images/kedonganan-sunset.jpg",
       "imageHint": "kedonganan sunset"
     },
     {
@@ -33,13 +33,13 @@
     {
       "id": "avanza-car",
       "description": "A large van for groups",
-      "imageUrl": "/images/avanza.png",
+      "imageUrl": "/TourFinalGior/images/avanza.png",
       "imageHint": "van car"
     },
     {
       "id": "xpander-car",
       "description": "The Mitsubishi Xpander",
-      "imageUrl": "/images/xpander.png",
+      "imageUrl": "/TourFinalGior/images/xpander.png",
       "imageHint": "Mitsubishi Xpander"
     },
     {
@@ -51,43 +51,43 @@
     {
       "id": "van-car-2",
       "description": "A large white van for groups",
-      "imageUrl": "https://plus.unsplash.com/premium_photo-1661370216769-d41983bb0f1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMHZpbiUyMHRveW90YSUyMGhpYWNlfGVufDB8fHx8MTc2MTU3OTQ4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1661370216769-d41983bb0f1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMHZpbiUyMHRveW90YSUyMGhpYWNlfGVufDB8fHx8MTc2MTU3OTQ4Nnww&ixlibrb-4.1.0&q=80&w=1080",
       "imageHint": "white van"
     },
     {
       "id": "all-new-avanza",
       "description": "The All New Avanza",
-      "imageUrl": "/images/all-new-avanza.png",
+      "imageUrl": "/TourFinalGior/images/all-new-avanza.png",
       "imageHint": "all new avanza"
     },
     {
       "id": "innova-reborn",
       "description": "The Toyota Innova Reborn",
-      "imageUrl": "/images/innova-reborn.webp",
+      "imageUrl": "/TourFinalGior/images/innova-reborn.webp",
       "imageHint": "Toyota Innova Reborn"
     },
     {
       "id": "hiace-commuter",
       "description": "The Toyota Hiace Commuter",
-      "imageUrl": "/images/hiace-commuter.png",
+      "imageUrl": "/TourFinalGior/images/hiace-commuter.png",
       "imageHint": "Toyota Hiace Commuter"
     },
     {
       "id": "hiace-premio",
       "description": "The Toyota Hiace Premio",
-      "imageUrl": "/images/hiace-premio.png",
+      "imageUrl": "/TourFinalGior/images/hiace-premio.png",
       "imageHint": "Toyota Hiace Premio"
     },
     {
       "id": "toyota-alphard",
       "description": "The Toyota Alphard",
-      "imageUrl": "/images/toyota-alphard.png.webp",
+      "imageUrl": "/TourFinalGior/images/toyota-alphard.png.webp",
       "imageHint": "The Toyota Alphard"
     },
     {
       "id": "toyota-vellfire",
       "description": "The Toyota Vellfire",
-      "imageUrl": "/images/toyota-vellfire.png",
+      "imageUrl": "/TourFinalGior/images/toyota-vellfire.png",
       "imageHint": "The Toyota Vellfire"
     }
   ]
