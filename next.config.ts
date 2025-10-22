@@ -2,7 +2,7 @@
 import type {NextConfig} from 'next';
 
 const nextConfig: NextConfig = {
-  basePath: '/GiorBaliTour',
+  basePath: '/TourFinalGior',
   output: 'export',
   typescript: {
     ignoreBuildErrors: true,
