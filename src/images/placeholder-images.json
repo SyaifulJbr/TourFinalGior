@@ -3,19 +3,19 @@
     {
       "id": "hero-bali-1",
       "description": "Patung Barong",
-      "imageUrl": "/TourFinalGior/images/barong-statue.jpg",
+      "imageUrl": "/images/barong-statue.jpg",
       "imageHint": "barong statue"
     },
     {
       "id": "hero-bali-2",
       "description": "Pantai Nusa Penida",
-      "imageUrl": "/TourFinalGior/images/nusa-penida-beach.jpg",
+      "imageUrl": "/images/nusa-penida-beach.jpg",
       "imageHint": "nusa penida beach"
     },
     {
       "id": "hero-bali-3",
       "description": "Sunset Kedonganan",
-      "imageUrl": "/TourFinalGior/images/kedonganan-sunset.jpg",
+      "imageUrl": "/images/kedonganan-sunset.jpg",
       "imageHint": "kedonganan sunset"
     },
     {
@@ -33,13 +33,13 @@
     {
       "id": "avanza-car",
       "description": "A large van for groups",
-      "imageUrl": "/TourFinalGior/images/avanza.png",
+      "imageUrl": "/images/avanza.png",
       "imageHint": "van car"
     },
     {
       "id": "xpander-car",
       "description": "The Mitsubishi Xpander",
-      "imageUrl": "/TourFinalGior/images/xpander.png",
+      "imageUrl": "/images/xpander.png",
       "imageHint": "Mitsubishi Xpander"
     },
     {
@@ -57,37 +57,37 @@
     {
       "id": "all-new-avanza",
       "description": "The All New Avanza",
-      "imageUrl": "/TourFinalGior/images/all-new-avanza.png",
+      "imageUrl": "/images/all-new-avanza.png",
       "imageHint": "all new avanza"
     },
     {
       "id": "innova-reborn",
       "description": "The Toyota Innova Reborn",
-      "imageUrl": "/TourFinalGior/images/innova-reborn.webp",
+      "imageUrl": "/images/innova-reborn.webp",
       "imageHint": "Toyota Innova Reborn"
     },
     {
       "id": "hiace-commuter",
       "description": "The Toyota Hiace Commuter",
-      "imageUrl": "/TourFinalGior/images/hiace-commuter.png",
+      "imageUrl": "/images/hiace-commuter.png",
       "imageHint": "Toyota Hiace Commuter"
     },
     {
       "id": "hiace-premio",
       "description": "The Toyota Hiace Premio",
-      "imageUrl": "/TourFinalGior/images/hiace-premio.png",
+      "imageUrl": "/images/hiace-premio.png",
       "imageHint": "Toyota Hiace Premio"
     },
     {
       "id": "toyota-alphard",
       "description": "The Toyota Alphard",
-      "imageUrl": "/TourFinalGior/images/toyota-alphard.png.webp",
+      "imageUrl": "/images/toyota-alphard.png.webp",
       "imageHint": "The Toyota Alphard"
     },
     {
       "id": "toyota-vellfire",
       "description": "The Toyota Vellfire",
-      "imageUrl": "/TourFinalGior/images/toyota-vellfire.png",
+      "imageUrl": "/images/toyota-vellfire.png",
       "imageHint": "The Toyota Vellfire"
     }
   ]
