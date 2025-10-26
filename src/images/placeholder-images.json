@@ -19,18 +19,6 @@
       "imageHint": "kedonganan sunset"
     },
     {
-      "id": "sedan-car",
-      "description": "A modern sedan car",
-      "imageUrl": "https://images.unsplash.com/photo-1722088353797-ddfe6e2faf34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzZWRhbiUyMGNhcnxlbnwwfHx8fDE3NjA5NzM0MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "sedan car"
-    },
-    {
-      "id": "suv-car",
-      "description": "A spacious SUV",
-      "imageUrl": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdXYlMjBjYXJ8ZW58MHx8fHwxNzYwOTk1MDc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "suv car"
-    },
-    {
       "id": "avanza-car",
       "description": "A large van for groups",
       "imageUrl": "/images/avanza.png",
@@ -41,18 +29,6 @@
       "description": "The Mitsubishi Xpander",
       "imageUrl": "/images/xpander.png",
       "imageHint": "Mitsubishi Xpander"
-    },
-    {
-      "id": "luxury-car",
-      "description": "An elegant luxury car",
-      "imageUrl": "https://images.unsplash.com/photo-1541348263662-e068662d82af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsdXh1cnklMjBjYXJ8ZW58MHx8fHwxNzYwOTgzMjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "luxury car"
-    },
-    {
-      "id": "van-car-2",
-      "description": "A large white van for groups",
-      "imageUrl": "https://plus.unsplash.com/premium_photo-1661370216769-d41983bb0f1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMHZpbiUyMHRveW90YSUyMGhpYWNlfGVufDB8fHx8MTc2MTU3OTQ4Nnww&ixlibrb-4.1.0&q=80&w=1080",
-      "imageHint": "white van"
     },
     {
       "id": "all-new-avanza",
